@@ -9,7 +9,7 @@ Este repositório contém um projeto de cronômetro web simples desenvolvido com
 - Registrar marcas de tempo durante a contagem.
 - Redefinir o cronômetro e limpar a lista de marcas.
 - Exibição do tempo decorrido no formato HH:MM:SS:CC.
-- Estilo CSS atraente com animações de hover nos botões.
+- Estilo CSS com animações de hover nos botões.
 
 
 ![222222](https://github.com/FIDEL7Z/Meu_cronometro/assets/103468557/1760fb47-b35a-4dea-a619-ab75c41a84e0)
